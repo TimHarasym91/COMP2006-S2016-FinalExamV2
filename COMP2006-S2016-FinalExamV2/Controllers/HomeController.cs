@@ -4,6 +4,12 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+/* Name: Timothy Harasym
+ * Student ID: 200186529
+ * Home Controller
+ * August 18, 2016
+ */
+
 namespace COMP2006_S2016_FinalExamV2.Controllers
 {
     public class HomeController : Controller
